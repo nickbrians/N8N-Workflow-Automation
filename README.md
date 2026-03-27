@@ -30,11 +30,11 @@ Log in to your account.
 
 ---
 
-## ✅ Done!
+## Done!
 Your workflow should now be successfully imported and ready to use in n8n.
 
 ---
 
-## 💡 Notes
+## Notes
 - Make sure your n8n server is running before importing  
 - If the workflow uses external services (e.g., Google APIs), reconnect credentials after importing  
