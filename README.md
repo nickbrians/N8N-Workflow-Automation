@@ -3,7 +3,8 @@
 
 Follow these steps to download and import the workflow into your n8n setup.
 
----
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5272dfee-9f37-4952-90bd-9019755c8ed2" />
+
 
 ## 🧾 Steps
 
